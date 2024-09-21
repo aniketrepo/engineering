@@ -1,4 +1,4 @@
-A vault for my personal use containing my engineering-related-stuff
+A vault for my personal use containing my engineering-related-stuff.
 # B.TECH CS-DS (1st year)
 [Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable.jpg)
 ## Practicals:
