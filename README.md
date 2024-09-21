@@ -1,3 +1,5 @@
+## *"Bad news is that time flies, good news is that you're the pilot"*
+
 A vault for my personal use containing my engineering-related-stuff.
 # B.TECH CS-DS (1st year, Sem 1)
 [Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable.jpg)
