@@ -15,6 +15,5 @@ A vault for my personal use containing my engineering-related-stuff
 - [Experiment 9, Variation of Magnetic field by Stewart and Gee method](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%209%2C%20Variation%20of%20Magnetic%20field%20by%20Stewart%20and%20Gee%20method.pdf)
 
 ### BAS-155/225, Engineering Language Lab
-- [Lab Practicals](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Lab%20Practicals.docx)
-- [Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.docx)
-- 
+- [Lab Practicals](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Lab%20Practicals.pdf)
+- [Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.pdf)
