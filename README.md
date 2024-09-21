@@ -1,5 +1,6 @@
 A vault for my personal use containing my engineering-related-stuff
 # B.TECH CS-DS (1st year)
+[Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable%20.jpg)
 
 ## Practicals:
 ### BAS-102, Engineering Physics-I
