@@ -20,6 +20,9 @@ A vault for my personal use containing my engineering-related-stuff.
 - [Lab Practicals](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Lab%20Practicals.pdf)
 - [Practical 7, Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.pdf)
 
+### BWS-151/251, Workshop Practice Lab
+- [Lab Manual](https://github.com/aniketrepo/engineering/blob/main/Practicals/Workshop%20Practice%20Lab%20%5BBWS-151%20%26%20BWS-251%5D/Workshop%20Practice%20Lab%20Mannual.pdf)
+
 ## Syllabus-
 ### BAS-103, Engineering Mathematics-I
 - [Lesson Plan Odd Sem. 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
