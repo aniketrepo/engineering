@@ -1,13 +1,6 @@
 A vault for my personal use containing my engineering-related-stuff.
 # B.TECH CS-DS (1st year, Sem 1)
 [Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable.jpg)
-
-## Syllabus-
-### BAS-103, Engineering Mathematics-I
-- [Lesson Plan Odd Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
-- [Syllabus and Course Outcome Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/SYLLABUS%20%26%20COURSE%20OUTCOME%20(MATHEMATICS)%20ODD%20SEM%20(2024-25).pdf)
-
-
 ## Practicals-
 ### BAS-102, Engineering Physics-I
 - [Physics Lab Assessment Record 2024-25](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Physics%20Lab%20Assessment%20Record%202024-25.pdf)
@@ -24,3 +17,13 @@ A vault for my personal use containing my engineering-related-stuff.
 ### BAS-155/225, Engineering Language Lab
 - [Lab Practicals](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Lab%20Practicals.pdf)
 - [Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.pdf)
+
+## Syllabus-
+### BAS-103, Engineering Mathematics-I
+- [Lesson Plan Odd Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
+- [Syllabus and Course Outcome Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/SYLLABUS%20%26%20COURSE%20OUTCOME%20(MATHEMATICS)%20ODD%20SEM%20(2024-25).pdf)
+
+## Tutorials-
+### BAS-103, Engineering Mathematics-I
+- Unit 2, Differential Calculus
+	- [Tutorial 1](https://github.com/aniketrepo/engineering/blob/main/Tutorials/Engineering%20Mathematics-I%20%5BBAS-103%5D/Unit-II%20%5BDifferential%20Calculus-I%5D/Tutorial%201%20%5BDifferential%20Calculus-I%5D.pdf)
