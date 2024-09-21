@@ -2,7 +2,7 @@
 
 A vault for my personal use containing my engineering-related-stuff.
 # B.TECH CS-DS (1st year, Sem. 1)
-[Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable.jpg)
+[Timetable](https://github.com/aniketrepo/engineering/blob/main/Timetable%20(Section%20wise)%20wef%2023rd%20Sept'24.pdf)
 ## Practicals-
 ### BAS-102, Engineering Physics-I
 - [Physics Lab Assessment Record 2024-25](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Physics%20Lab%20Assessment%20Record%202024-25.pdf)
