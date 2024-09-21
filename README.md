@@ -1,6 +1,13 @@
 A vault for my personal use containing my engineering-related-stuff.
 # B.TECH CS-DS (1st year)
 [Timetable](https://github.com/aniketrepo/engineering/blob/main/timetable.jpg)
+
+## Syllabus:
+### BAS-103, Engineering Mathematics-I
+- [Lesson Plan Odd Sem 1 (2024-2025)]()
+- [Syllabus and Course Outcome Sem 1 (2024-2025)]()
+
+
 ## Practicals:
 ### BAS-102, Engineering Physics-I
 - [Physics Lab Assessment Record 2024-25](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Physics%20Lab%20Assessment%20Record%202024-25.pdf)
