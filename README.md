@@ -18,7 +18,7 @@ A vault for my personal use containing my engineering-related-stuff.
 
 ### BAS-155/225, English Language Lab
 - [Lab Practicals](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Lab%20Practicals.pdf)
-- [Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.pdf)
+- [Practical 7, Module 1](https://github.com/aniketrepo/engineering/blob/main/Practicals/English%20Language%20Lab%20%5BBAS-155%20%26%20BAS-255%5D/Module%201.pdf)
 
 ## Syllabus-
 ### BAS-103, Engineering Mathematics-I
