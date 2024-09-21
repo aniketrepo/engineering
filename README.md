@@ -4,15 +4,15 @@ A vault for my personal use containing my engineering-related-stuff
 
 ## Practicals:
 ### BAS-102, Engineering Physics-I
-- Physics Lab Assessment Record 2024-25
-- Experiment 1, Newton's Rings experiment
-- Experiment 2, Nodal Slide
-- Experiment 3, Diffraction Grating
-- Experiment 4, Carey Foster Bridge
-- Experiment 5, Energy band gap of semiconductor
-- Experiment 6, Hall Effect
-- Experiment 7, Stefan's law by electrical method
-- Experiment 8, ECE of copper
-- Experiment 9, Variation of Magnetic field by Stewart and Gee method
+- [Physics Lab Assessment Record 2024-25](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Physics%20Lab%20Assessment%20Record%202024-25.pdf)
+- [Experiment 1, Newton's Rings experiment](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%201%2C%20Newton's%20Rings%20experiment.pdf)
+- [Experiment 2, Nodal Slide](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%202%2C%20Nodal%20Slide.pdf)
+- [Experiment 3, Diffraction Grating](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%203%2C%20Diffraction%20Grating.pdf)
+- [Experiment 4, Carey Foster Bridge](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%204%2C%20Carey%20Foster%20Bridge.pdf)
+- [Experiment 5, Energy band gap of semiconductor](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%205%2C%20Energy%20band%20gap%20of%20semiconductor.pdf)
+- [Experiment 6, Hall Effect](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%206%2C%20Hall%20Effect.pdf)
+- [Experiment 7, Stefan's law by electrical method](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%207%2C%20Stefan's%20law%20by%20electrical%20method.pdf)
+- [Experiment 8, ECE of copper](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%208%2C%20ECE%20of%20copper.pdf)
+- [Experiment 9, Variation of Magnetic field by Stewart and Gee method](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%209%2C%20Variation%20of%20Magnetic%20field%20by%20Stewart%20and%20Gee%20method.pdf)
 
 ### BAS-155/225, Engineering Language Lab
