@@ -4,8 +4,8 @@ A vault for my personal use containing my engineering-related-stuff.
 
 ## Syllabus:
 ### BAS-103, Engineering Mathematics-I
-- [Lesson Plan Odd Sem 1 (2024-2025)]()
-- [Syllabus and Course Outcome Sem 1 (2024-2025)]()
+- [Lesson Plan Odd Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
+- [Syllabus and Course Outcome Sem 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/SYLLABUS%20%26%20COURSE%20OUTCOME%20(MATHEMATICS)%20ODD%20SEM%20(2024-25).pdf)
 
 
 ## Practicals:
