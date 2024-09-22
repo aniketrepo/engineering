@@ -5,7 +5,7 @@ A vault for my personal use, containing my engineering-related material.
 # B.TECH CS-DS (1st year, Sem. 1)
 [Timetable](https://github.com/aniketrepo/engineering/blob/main/Timetable%20(Section%20wise)%20wef%2023rd%20Sept'24.pdf)
 ## Practicals-
-### BAS-102, Engineering Physics-I
+### BAS-101, Engineering Physics
 - [Physics Lab Assessment Record 2024-25](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Physics%20Lab%20Assessment%20Record%202024-25.pdf)
 - [Experiment 1, Newton's Rings experiment](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%201%2C%20Newton's%20Rings%20experiment.pdf)
 - [Experiment 2, Nodal Slide](https://github.com/aniketrepo/engineering/blob/main/Practicals/Engineering%20Physics-I%20%5BBAS-102%5D/Experiment%202%2C%20Nodal%20Slide.pdf)
@@ -23,6 +23,14 @@ A vault for my personal use, containing my engineering-related material.
 
 ### BWS-151/251, Workshop Practice Lab
 - [Lab Manual](https://github.com/aniketrepo/engineering/blob/main/Practicals/Workshop%20Practice%20Lab%20%5BBWS-151%20%26%20BWS-251%5D/Workshop%20Practice%20Lab%20Mannual.pdf)
+
+## Question Banks-
+### BAS-101, Engineering Physics
+- [Unit 1, Quantum Mechanics](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-1-%20QUANTUM%20MECHANICS.pdf)
+- [Unit 2, Electromagnetic Field Theory](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-2-%20ELECTOMAGNETIC%20FILED%20THEORY.pdf)
+- [Unit 3, Wave Optics](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-3%20%20WAVE%20OPTICS.pdf)
+- [Unit 4, Fiber Optics and Laser](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-4%20FIBER%20OPTICS%20AND%20LASER.pdf)
+- [Unit 5, Superconductors and Nanomaterials](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-5%20SUPERCONDUCTORS%20AND%20NANOMATERIALS.pdf)
 
 ## Syllabus-
 
