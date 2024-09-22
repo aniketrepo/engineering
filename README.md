@@ -25,6 +25,9 @@ A vault for my personal use, containing my engineering-related material.
 - [Lab Manual](https://github.com/aniketrepo/engineering/blob/main/Practicals/Workshop%20Practice%20Lab%20%5BBWS-151%20%26%20BWS-251%5D/Workshop%20Practice%20Lab%20Mannual.pdf)
 
 ## Syllabus-
+
+### BAS-101, Engineering Physics
+- [University Syllabus](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Physics%20%5BBAS-101%5D/UNIVERSITY%20SYLLABUS-BAS101%20(ENGINEERING%20PHYSICS).pdf)
 ### BAS-103, Engineering Mathematics-I
 - [Lesson Plan Odd Sem. 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
 - [Syllabus and Course Outcome Sem. 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/SYLLABUS%20%26%20COURSE%20OUTCOME%20(MATHEMATICS)%20ODD%20SEM%20(2024-25).pdf)
