@@ -44,3 +44,5 @@ A vault for my personal use, containing my engineering-related material.
 ### BAS-103, Engineering Mathematics-I
 - **Unit 2, Differential Calculus**
 	- [Tutorial 1](https://github.com/aniketrepo/engineering/blob/main/Tutorials/Engineering%20Mathematics-I%20%5BBAS-103%5D/Unit-II%20%5BDifferential%20Calculus-I%5D/Tutorial%201%20%5BDifferential%20Calculus-I%5D.pdf)
+
+## Miscellaneous-
