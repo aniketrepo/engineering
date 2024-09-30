@@ -13,7 +13,7 @@ A vault for my personal use, containing my engineering-related material.
 	- [Assignment 1](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-1%20(BAS-103)%202024-25.pdf)
 
 ### BAS-101, Engineering Physics
-- Fiber Optics and Laser
+- **Fiber Optics and Laser**
 	- [Assignment 1](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Physics-I%20%5BBAS-102%5D/AS-1-BAS101-Engineering%20Physics-2024-25.pdf)
 
 ## Class Tests-
