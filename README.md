@@ -46,6 +46,9 @@ A vault for my personal use, containing my engineering-related material.
 - [Unit 4, Fiber Optics and Laser](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-4%20FIBER%20OPTICS%20AND%20LASER.pdf)
 - [Unit 5, Superconductors and Nanomaterials](https://github.com/aniketrepo/engineering/blob/main/Questions/Engineering%20Physics%20%5BBAS-101%5D/UNIT-5%20SUPERCONDUCTORS%20AND%20NANOMATERIALS.pdf)
 
+### BEE-101, Fundamentals of Electrical Engineering
+- 
+
 ## Syllabus-
 
 ### BAS-101, Engineering Physics
@@ -53,6 +56,8 @@ A vault for my personal use, containing my engineering-related material.
 ### BAS-103, Engineering Mathematics-I
 - [Lesson Plan Odd Sem. 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/LESSON%20PLAN%20ODD%20SEM%20(2024-25)%20ENG.%20MATHEMATICS-1%20BAS103.pdf)
 - [Syllabus and Course Outcome Sem. 1 (2024-2025)](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Engineering%20Mathematics-I%20%5BBAS-103%5D/SYLLABUS%20%26%20COURSE%20OUTCOME%20(MATHEMATICS)%20ODD%20SEM%20(2024-25).pdf)
+### BEE-101, Fundamentals of Electrical Engineering
+- [University Syllabus]()
 
 ## Tutorials-
 ### BAS-103, Engineering Mathematics-I
