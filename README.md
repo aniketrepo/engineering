@@ -9,7 +9,7 @@ A vault for my personal use, containing my engineering-related material.
 ## Assignments-
 - [Schedule of Assignments](https://github.com/aniketrepo/engineering/blob/main/Schedule%20of%20Assignment.pdf)
 ### BAS-103, Engineering Mathematics-I
-- **Unit 2, Differential Calculus**
+- **Unit 2, Differential Calculus-I**
 	- [Assignment 1](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-1%20(BAS-103)%202024-25.pdf)
 
 ### BAS-101, Engineering Physics
