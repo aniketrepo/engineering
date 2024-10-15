@@ -3,8 +3,8 @@
 A vault for my personal use, containing my engineering-related material.
 
 # B.TECH CS-DS (1st year, Sem. 1)
-- [Academic Calendar](https://github.com/aniketrepo/engineering/blob/main/ACADEMIC%20CALENDAR%20ODD%20SEM%202024-25.pdf)
-- [Syllabus](https://github.com/aniketrepo/engineering/blob/main/Syllabus_BTech_First_Yr_Common_other_than_AG_%26_BT_effective_from_2022_23_R.pdf)
+- [Academic Calendar](https://github.com/aniketrepo/engineering/blob/main/Syllabus/ACADEMIC%20CALENDAR%20ODD%20SEM%202024-25.pdf)
+- [Syllabus](https://github.com/aniketrepo/engineering/blob/main/Syllabus/Syllabus_BTech_First_Yr_Common_other_than_AG_%26_BT_effective_from_2022_23_R.pdf)
 - [Timetable](https://github.com/aniketrepo/engineering/blob/main/Timetable%20(Section%20wise)%20wef%2023rd%20Sept'24.pdf)
 
 ## Assignments-
