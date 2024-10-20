@@ -11,9 +11,11 @@ A vault for my personal use, containing my engineering-related material.
 - [Schedule of Assignments](https://github.com/aniketrepo/engineering/blob/main/Schedule%20of%20Assignment.pdf)
 ### BAS-103, Engineering Mathematics-I
 - [Unit 2, Differential Calculus-I](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-1%20(BAS-103)%202024-25.pdf)
+- [Unit 3, Differential Calculus-II](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-2%20(BAS-103)%202024-25.pdf)
 
 ### BAS-101, Engineering Physics
 - [Fiber Optics and Laser](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Physics-I%20%5BBAS-102%5D/AS-1-BAS101-Engineering%20Physics-2024-25.pdf)
+- [Quantum Mechanics](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Physics-I%20%5BBAS-102%5D/AS-2-BAS101-Engineering%20Physics-2024-25.pdf)
 
 ## Class Tests-
 - [Schedule for Class Tests](https://github.com/aniketrepo/engineering/blob/main/Schedule%20of%20Class%20Test.pdf)
