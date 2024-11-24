@@ -17,6 +17,7 @@ A vault for my personal use, containing my engineering-related material.
 ### BAS-103, Engineering Mathematics-I
 - [Unit 2, Differential Calculus-I](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-1%20(BAS-103)%202024-25.pdf)
 - [Unit 3, Differential Calculus-II](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-2%20(BAS-103)%202024-25.pdf)
+- [Unit 1, Matrix](https://github.com/aniketrepo/engineering/blob/main/Assingments/Engineering%20Mathematics-I%20%5BBAS-103%5D/Assignment-3%20(BAS-103)%202024-25.pdf)
 
 ### BAS-105, Soft Skills
 - [Assignment 2](https://github.com/aniketrepo/engineering/blob/main/Assingments/Soft%20Skills%20%5BBAS-105%5D/Assignment-2%20(BAS-105)%202024-25.pdf)
